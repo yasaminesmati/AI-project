@@ -1,1 +1,1 @@
-# AI-project
+EEG signal processing
